@@ -1,4 +1,4 @@
-@charset "utf-8";
+
 body,html{ min-width: 1200px; overflow-x: hidden; }
 *{ margin:0; padding:0;}
 body,p,h1,h2,h3,h4,h5,table,ul,li,form,input{ margin:0; padding:0; color:#000; font-family:"Microsoft yahei"; }
